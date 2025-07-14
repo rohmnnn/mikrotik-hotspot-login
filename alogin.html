@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="id">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="refresh" content="2; url=$(link-redirect)">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <title>Hotspot Internet - Redirect</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script>
+        function startClock() {
+            var popupValue = "$(popup)";
+            if (popupValue == "true") {
+                open('$(link-status)', 'hotspot_status', 'toolbar=0,location=0,directories=0,status=0,menubars=0,resizable=1,width=290,height=200');
+            }
+            location.href = unescape('$(link-redirect-esc)');
+        }
+    </script>
+</head>
+
+<body class="green-theme" onLoad="startClock()">
+    <div class="container">
+        <div class="main-card">
+            <h1>Berhasil Login</h1>
+            <p class="info">Jika tidak otomatis, klik <a href="$(link-redirect)">di sini</a></p>
+        </div>
+    </div>
+</body>
+
+</html>
