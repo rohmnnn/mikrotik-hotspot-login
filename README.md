@@ -13,6 +13,24 @@ A modern, responsive hotspot login template for MikroTik RouterOS with a futuris
 - **Status Page**: Real-time connection status and usage monitoring
 - **Error Handling**: Comprehensive error pages with user-friendly messages
 
+## 📸 Screenshots
+
+### Login Page
+![Login Page](https://github.com/rohmnnn/mikrotik-hotspot-login/assets/screenshots/login-page.png)
+
+### Status Page (Connected User)
+![Status Page](https://github.com/rohmnnn/mikrotik-hotspot-login/assets/screenshots/status-page.png)
+
+### Logout Page (Session Summary)
+![Logout Page](https://github.com/rohmnnn/mikrotik-hotspot-login/assets/screenshots/logout-page.png)
+
+### Design Features Showcase
+- **Glowing Border Effects**: Dynamic green glow animation around login cards
+- **Glass-morphism**: Semi-transparent cards with backdrop blur effects
+- **Responsive Layout**: Centered design that works on all screen sizes
+- **Modern Typography**: Clean, readable fonts with proper contrast
+- **Futuristic Theme**: Dark gradient background with cyan/green accent colors
+
 ## 📁 File Structure
 
 ```
