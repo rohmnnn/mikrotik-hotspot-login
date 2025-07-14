@@ -16,13 +16,13 @@ A modern, responsive hotspot login template for MikroTik RouterOS with a futuris
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](https://raw.githubusercontent.com/rohmnnn/mikrotik-hotspot-login/refs/heads/main/img/login.png)
+![Login Page](https://raw.githubusercontent.com/rohmnnn/mikrotik-hotspot-login/refs/heads/main/img/login.jpeg)
 
 ### Status Page (Connected User)
-![Status Page](https://raw.githubusercontent.com/rohmnnn/mikrotik-hotspot-login/refs/heads/main/img/statun.png)
+![Status Page](https://raw.githubusercontent.com/rohmnnn/mikrotik-hotspot-login/refs/heads/main/img/status.jpeg)
 
 ### Logout Page (Session Summary)
-![Logout Page](https://raw.githubusercontent.com/rohmnnn/mikrotik-hotspot-login/refs/heads/main/img/logoun.png)
+![Logout Page](https://raw.githubusercontent.com/rohmnnn/mikrotik-hotspot-login/refs/heads/main/img/logout.jpeg)
 
 ### Design Features Showcase
 - **Glowing Border Effects**: Dynamic green glow animation around login cards
